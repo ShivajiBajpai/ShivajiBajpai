@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shivaji Bajpai
 
-### 💼 Digital Accessibility Specialist | Front-End Developer (React + Accessibility Focus)
+### 💼 Digital Accessibility Specialist
 
 I’m a passionate and experienced accessibility consultant with over **7 years of experience** ensuring digital products are **inclusive, WCAG-compliant**, and user-friendly for everyone. I specialize in **web accessibility testing**, **assistive technologies**, and currently expanding my expertise in **React.js** and modern front-end development.
 
